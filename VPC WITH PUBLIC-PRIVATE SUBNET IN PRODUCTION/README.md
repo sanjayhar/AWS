@@ -97,8 +97,7 @@ vim index.html
 ```bash
 
 python3 -m http.server 8000
-
-
+```
 
 ### 9. Create Application Load Balancer
 Network Mapping: Select both AZs (only public subnets)
